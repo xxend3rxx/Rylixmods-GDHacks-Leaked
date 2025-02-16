@@ -10,5 +10,8 @@ The files without "by Rylixmods SFC" in the end of their name are the versions t
 
 Meanwhile the others without that are explicitly the NEW versions that he gave me
 
+Both the A and B bruteforce hacks, are the one that he used to give you if you contacted him on instagram before Geometry Dash introduced rate limits...
+But even with that, those two are complitely useless since it's almost impossible to crack a 6 to 21 characters long password by random bruteforcing
+
 
 If you have any doubts contact me on discord (trml__)
