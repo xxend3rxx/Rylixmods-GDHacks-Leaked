@@ -9,3 +9,6 @@ And after years of them being a secret i finally decided to leak them all...
 The files without "by Rylixmods SFC" in the end of their name are the versions that he showcased in youtube videos or discord screen share VC
 
 Meanwhile the others without that are explicitly the NEW versions that he gave me
+
+
+If you have any doubts contact me on discord (trml__)
